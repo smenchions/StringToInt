@@ -12,7 +12,7 @@
 <body>
     <div id="content" class="container">
         <div class="section grid grid10">
-            <h2>Enter Text to Convert to an Integer</h2>
+            <h2>Enter Text to Convert to an Integer :</h2>
             <br><br>
             <form name="frm" method="get" action="textInput.jsp" style="margin-left:30px;">
             <input type="text" name="textToConvert" style="width:400px;" value="Forty Four Billion Two Hundred Ninety Eight Million Three Hundred Fifty Two Thousand Seven Hundred Sixty Two"><br><br>
